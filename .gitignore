@@ -1,0 +1,15 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Virtual environments (αν φτιάξεις ποτέ venv)
+.venv/
+env/
+venv/
